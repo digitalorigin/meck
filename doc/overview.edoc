@@ -1,5 +1,5 @@
 %%==============================================================================
-%% Copyright 2010 Erlang Solutions Ltd.
+%% Copyright 2010-2017 Adam Lindberg, 2010-2011 Erlang Solutions Ltd
 %%
 %% Licensed under the Apache License, Version 2.0 (the "License");
 %% you may not use this file except in compliance with the License.
@@ -14,11 +14,12 @@
 %% limitations under the License.
 %%==============================================================================
 
-@copyright 2010 Erlang Solutions Ltd.
-@version 0.1
-@title Meck, a Mocking Library for Erlang
+@author Adam Lindberg <eproxus@gmail.com>
+@copyright 2010-2017 Adam Lindberg, 2010-2011 Erlang Solutions Ltd
+@version 0.8.8
+@title meck, a Mocking Library for Erlang
 
 @doc
 
 == About ==
-Meck is a mocking library for Erlang.
+meck is a mocking library for Erlang.
